@@ -11,16 +11,10 @@ import javax.swing.JOptionPane;
  *
  * @author menuven
  */
-public class JavaApplication54 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-        Contornos obx = new Contornos();
-        
-        obx.mensaje();
+public class Contornos {
+    
+    public void mensaje(){
+        JOptionPane.showMessageDialog(null,"Contornos");
     }
     
 }
