@@ -16,5 +16,8 @@ public class Contornos {
     public void mensaje(){
         JOptionPane.showMessageDialog(null,"Contornos");
     }
+    public void merge2(){
+        JOptionPane.showMessageDialog(null, "Merge2");
+    }
     
 }

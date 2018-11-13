@@ -21,6 +21,7 @@ public class JavaApplication54 {
         Contornos obx = new Contornos();
         
         obx.mensaje();
+        obx.merge2();
     }
     
 }
