@@ -18,8 +18,7 @@ public class JavaApplication54 {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Branch");
-        //Prueba branch
-        //Commit 1
+//Prueba branch
     }
     
 }
