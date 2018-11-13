@@ -17,10 +17,11 @@ public class JavaApplication54 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Branch");
-        //Prueba branch
-        //Commit 1
-        //Rama 2
+        
+        Contornos obx = new Contornos();
+        
+        obx.mensaje();
+        obx.merge2();
     }
     
 }
